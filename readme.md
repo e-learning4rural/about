@@ -79,6 +79,27 @@ Questions to consider:
 </details>
 
 <details>
+<summary> Usability & Accessibility (40%)</summary>
+Description: How intuitive and easy-to-use is the AI tool for learners, especially those with limited technical experience? Does the interface design facilitate smooth interaction?
+
+Questions to consider:
+1. Is the interface clear, intuitive, and easy to navigate without prior training or significant guidance?
+2. Does the tool provide easy-to-understand instructions and feedback during use?
+3. Is there a balance between simplicity (for accessibility) and functionality (for depth)?
+
+Learners will be given a survey questions, e.g.:
+- “I could use this tool without external help.” (1–5 scale)
+- “The tool worked well with limited internet.” (1–5 scale)
+- “Instructions were clear.” (1–5 scale)
+- “I would use this for my own learning.” (Yes/No + Why)
+
+Educators then provide evaluation based on:
+- Learners' ratings
+- Thematic summary of learners' qualitative responses
+- Flagged issues (e.g., confusion, harm concerns)
+</details>
+
+<details>
 <summary> Ethical Design (40%)</summary>
  
 Description: Does the AI solution address potential biases, ensuring that it does not disadvantage certain groups, particularly marginalized communities?
@@ -100,27 +121,6 @@ Questions to consider:
 - Is the tool designed with cultural sensitivity in mind, addressing the unique needs and backgrounds of remote learners from diverse communities?
 - How inclusive is the solution? Does it consider disabilities, language barriers, and regional diversity in design?
 - Has the tool been tested with target communities to ensure cultural appropriateness?
-</details>
-
-<details>
-<summary> Usability & Accessibility (40%)</summary>
-Description: How intuitive and easy-to-use is the AI tool for learners, especially those with limited technical experience? Does the interface design facilitate smooth interaction?
-
-Questions to consider:
-1. Is the interface clear, intuitive, and easy to navigate without prior training or significant guidance?
-2. Does the tool provide easy-to-understand instructions and feedback during use?
-3. Is there a balance between simplicity (for accessibility) and functionality (for depth)?
-
-Learners will be given a survey questions, e.g.:
-- “I could use this tool without external help.” (1–5 scale)
-- “The tool worked well with limited internet.” (1–5 scale)
-- “Instructions were clear.” (1–5 scale)
-- “I would use this for my own learning.” (Yes/No + Why)
-
-Educators then provide evaluation based on:
-- Learners' ratings
-- Thematic summary of learners' qualitative responses
-- Flagged issues (e.g., confusion, harm concerns)
 </details>
 
 
@@ -150,26 +150,7 @@ Questions to consider:
 
 <details>
 <summary> Ethical Design (40%)</summary>
- 
-Description: Does the AI solution address potential biases, ensuring that it does not disadvantage certain groups, particularly marginalized communities?
-
-Questions to consider:
-### Fairness and Bias Mitigation
-- Does the tool account for diverse learners and their needs (e.g., language, cultural backgrounds, socio-economic status)?
-- How does the system identify and mitigate potential bias in its algorithms and data usage?
-- Is there any evidence of fairness testing (e.g., does the tool work equally well for learners from different backgrounds)?
-### Transparency & Accountability
-- Does the tool provide clear explanations about its algorithms, data sources, and how decisions are made?
-- Are the creators accountable for potential harm caused by the tool, and is there a process for addressing user concerns?
-- Is there a clear and transparent methodology for how the tool was designed, tested, and iterated?
-### Data Privacy & Security
-- Does the tool follow ethical data collection practices, such as informed consent, data anonymization, and user control over their data?
-- How does the tool ensure security for vulnerable populations, protecting them from data breaches or misuse?
-- Does the tool comply with relevant data protection laws and local regulations for remote learners?
-### Cultural Sensitivity and Inclusivity    
-- Is the tool designed with cultural sensitivity in mind, addressing the unique needs and backgrounds of remote learners from diverse communities?
-- How inclusive is the solution? Does it consider disabilities, language barriers, and regional diversity in design?
-- Has the tool been tested with target communities to ensure cultural appropriateness?
+Same as those listed in Track 1
 </details>
 
 
