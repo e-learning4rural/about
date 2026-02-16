@@ -128,13 +128,7 @@ Questions to consider:
 
 <details>
 <summary> Needs Alignment (20%)</summary>
-Description: Does the AI tool directly address the specific needs of marginalized or rural learners, particularly in remote and under-resourced contexts?
-
-Questions to consider:
-1. Does the tool solve a clearly identified problem in these communities (e.g., access to resources, low bandwidth, cultural relevance)?
-2. How well does the solution align with the real-world needs of the target user group?
-3. Has the project incorporated user feedback from remote learners and educators during the design phase?
-4. Is there evidence of how users will be motivated to use the tool regularly (e.g., gamification, ease of use, feedback loops)?
+Same as those listed in Track 1
 </details>
 
 <details>
