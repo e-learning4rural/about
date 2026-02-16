@@ -23,10 +23,12 @@ By embedding end-user perspectives into the evaluation process, the symposium pi
 | Track 2: 💡 Innovation |  For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning | Winner: $700 <br> Runner-up: $200 |
 
 ## How it works?
-- Submit your prototype and documentation: show how your AI solution works and why it matters
-- Receive feedback from educators and remote learners: structured usability testing and surveys inform your final score
-- Present at the live online showcase: finalists share their work, reflect with panels, and compete for awards
-
+- Participants submit a functional prototype, technical documentation, and ethical considerations
+- The panels will prescreen all *completed* submissions based on a transparent rubric that includes criteria for technical merit, cultural relevance, and usability  
+- The top three submissions from each track will be selected by the panels, based on the prescreening scores
+- Finalists will receive structured feedback through usability testing with educators from rural contexts and remote learners from marginalized communities. Feedback will be collected via surveys and facilitated discussions, and it will contribute to the final score
+- Non-finalists are also invited to present their work during the showcase and will have the chance to be selected by the public as the 'Public's Favorite'
+  
 --- 
 
 ## Program Timeline
@@ -61,6 +63,7 @@ Participation includes:
 - Privacy and risk safeguards  
 
 ## Scoring rubric
+*click to expand the rubrics*
 
 <details>
 <summary> Needs Alignment (25%)</summary>
