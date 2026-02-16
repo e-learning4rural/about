@@ -7,11 +7,9 @@
 
 The Inaugural Symposium on Ethical AI Solutions for Remote Learning is a new online initiative that advances educational equity by centering the perspectives of rural and marginalized communities in the evaluation of AI-driven learning tools. While other AI education symposiums exist, few meaningfully involve end-users from under-resourced contexts in the evaluation process. This symposium fills that gap by using a participatory model that integrates developers, rural educators, and remote learners into a structured, compensated evaluation framework.
 
-The program features two tracks:
-- **Real-World Impact Track**: For solutions that are ready or near-ready for deployment in low-resource settings.
-- **Innovation Track**: For novel and experimental approaches.
+The program features two tracks: **Real-World Impact Track** and **Innovation Track**.
 
-Submitted prototypes will undergo structured testing by both expert educators from rural settings and remote learners from marginalized communities. Feedback from both panels will directly contribute to scoring, based on a transparent rubric that emphasizes technical innovation, cultural sensitivity, usability, ethical design, and scalability.
+Submissions made to both tracks will undergo structured testing by both expert educators from rural settings and remote learners from marginalized communities. Feedback from both panels will directly contribute to scoring, based on a transparent rubric that emphasizes technical innovation, cultural sensitivity, usability, ethical design, and scalability.
 
 By embedding end-user perspectives into the evaluation process, the symposium pilots a replicable model for participatory, ethically grounded AI assessment. This initiative democratizes AI education innovation, elevates community expertise, and provides student developers with substantive, real-world validation. All materials, evaluation criteria, and recorded presentations will be made publicly available to maximize the broader impact.
 
@@ -23,11 +21,12 @@ By embedding end-user perspectives into the evaluation process, the symposium pi
 | T2: 💡 Innovation |  For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning | Winner: $700 <br> Runner-up: $200 |
 
 ## How it works?
-- Participants submit a functional prototype, technical documentation, and ethical considerations
-- The panels will prescreen all *completed* submissions based on a transparent rubric that includes criteria for technical merit, cultural relevance, and usability  
+- Each participant may submit no more than one submissions
+- A submission is consider complete if it contains a functional prototype, technical documentation, and video presentation
+- The panels will prescreen all *completed* submissions based on the published evaluation rubric (see below)
 - The top three submissions from each track will be selected by the panels, based on the prescreening scores
 - Finalists will receive structured feedback through usability testing with educators from rural contexts and remote learners from marginalized communities. Feedback will be collected via surveys and facilitated discussions, and it will contribute to the final score
-- Non-finalists are also invited to present their work during the showcase and will have the chance to be selected by the public as the 'Public's Favorite'
+- Non-finalists are also invited to present their videos and answer questions during the showcase and will have the chance to be selected by the public as the 'Public's Favorite'
   
 --- 
 
