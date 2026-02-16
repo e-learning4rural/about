@@ -1,6 +1,4 @@
-Here is a more **website-friendly, concise, and visually scannable** version suitable for a landing page:
 
-```markdown
 ## 📅 Program Timeline
 
 ### 🚀 Phase 1 — Submission  
@@ -71,7 +69,7 @@ For solutions ready (or near-ready) for deployment in under-resourced contexts.
 
 ### 💡 Track 2 — Innovation Track
 For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning.
-```
+
 
 If you'd like, I can also provide:
 
