@@ -129,12 +129,14 @@ Educators then provide evaluation based on:
 
 <details>
 <summary> Needs Alignment (20%)</summary>
+
 Same as those listed in Track 1
 </details>
 
 
 <details>
 <summary> Ethical Design (40%)</summary>
+
 Same as those listed in Track 1
 </details>
 
