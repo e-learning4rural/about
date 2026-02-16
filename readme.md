@@ -19,15 +19,13 @@ By embedding end-user perspectives into the evaluation process, the symposium pi
 
 ||||
 | -- | -- | -- |
-| Track 1: 🌱  Real-World Impact | For solutions ready (or near-ready) for deployment in under-resourced contexts | Winner: $1000 <br> Runner-up: $300 |
+| Track 1: 🌱 Real-World Impact | For solutions ready (or near-ready) for deployment in under-resourced contexts | Winner: $1000 <br> Runner-up: $300 |
 | Track 2: 💡 Innovation |  For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning | Winner: $700 <br> Runner-up: $200 |
 
 ## How it works?
 - Submit your prototype and documentation: show how your AI solution works and why it matters
 - Receive feedback from educators and remote learners: structured usability testing and surveys inform your final score
 - Present at the live online showcase: finalists share their work, reflect with panels, and compete for awards
-
-By participating, you’re helping shape AI that is responsible, usable, and truly equitable — and getting recognized for it.
 
 --- 
 
@@ -37,7 +35,7 @@ By participating, you’re helping shape AI that is responsible, usable, and tru
 | :-- | :-- | :-- |
 | 1. Submission 🚀 | May 6 – July 6 | Participants submit: <br> - 🎥 5–7 minute video demonstration <br> - 📄 Technical + ethical documentation <br> - 🧪 Functional prototype* | 
 | 2. Participatory Prototype Evaluation 🔎 | July 7 – July 28 | All projects undergo structured, community-informed evaluation |
-| 3. Live Online Showcase & final judging 🎤 | August 15 | Four-hour online symposium: <br> - Finalist presentations  <br> - Moderated Q&A  <br> - Reflections from educator and learner panelists <br>  - Community voting (non-determinative) <br>  - Awards ceremony  |
+| 3. Live Online Showcase & final judging 🎤 | August 15 | Four-hour online symposium: <br> - Finalist presentations  <br> - Moderated Q&A  <br> - Reflections from educator and learner panelists <br>  - Community voting <br>  - Awards ceremony  |
 
 *Examples of prototypes: web app, mobile app, lightweight executable, or guided simulation hosted on an open repository 
 
