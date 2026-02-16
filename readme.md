@@ -78,26 +78,6 @@ Questions to consider:
 4. Is there evidence of how users will be motivated to use the tool regularly (e.g., gamification, ease of use, feedback loops)?
 </details>
 
-<details>
-<summary> Usability & Accessibility (40%)</summary>
-Description: How intuitive and easy-to-use is the AI tool for learners, especially those with limited technical experience? Does the interface design facilitate smooth interaction?
-
-Questions to consider:
-1. Is the interface clear, intuitive, and easy to navigate without prior training or significant guidance?
-2. Does the tool provide easy-to-understand instructions and feedback during use?
-3. Is there a balance between simplicity (for accessibility) and functionality (for depth)?
-
-Learners will be given a survey questions, e.g.:
-- “I could use this tool without external help.” (1–5 scale)
-- “The tool worked well with limited internet.” (1–5 scale)
-- “Instructions were clear.” (1–5 scale)
-- “I would use this for my own learning.” (Yes/No + Why)
-
-Educators then provide evaluation based on:
-- Learners' ratings
-- Thematic summary of learners' qualitative responses
-- Flagged issues (e.g., confusion, harm concerns)
-</details>
 
 <details>
 <summary> Ethical Design (40%)</summary>
@@ -123,11 +103,39 @@ Questions to consider:
 - Has the tool been tested with target communities to ensure cultural appropriateness?
 </details>
 
+<details>
+<summary> Usability & Accessibility (40%)</summary>
+Description: How intuitive and easy-to-use is the AI tool for learners, especially those with limited technical experience? Does the interface design facilitate smooth interaction?
+
+Questions to consider:
+1. Is the interface clear, intuitive, and easy to navigate without prior training or significant guidance?
+2. Does the tool provide easy-to-understand instructions and feedback during use?
+3. Is there a balance between simplicity (for accessibility) and functionality (for depth)?
+
+Learners will be given a survey questions, e.g.:
+- “I could use this tool without external help.” (1–5 scale)
+- “The tool worked well with limited internet.” (1–5 scale)
+- “Instructions were clear.” (1–5 scale)
+- “I would use this for my own learning.” (Yes/No + Why)
+
+Educators then provide evaluation based on:
+- Learners' ratings
+- Thematic summary of learners' qualitative responses
+- Flagged issues (e.g., confusion, harm concerns)
+</details>
+
 
 ### Track 2: Innovation Track
 
+
 <details>
 <summary> Needs Alignment (20%)</summary>
+Same as those listed in Track 1
+</details>
+
+
+<details>
+<summary> Ethical Design (40%)</summary>
 Same as those listed in Track 1
 </details>
 
@@ -141,10 +149,4 @@ Questions to consider:
 - Does it leverage new or emerging technologies in a creative way?
  
 </details>
-
-<details>
-<summary> Ethical Design (40%)</summary>
-Same as those listed in Track 1
-</details>
-
 
