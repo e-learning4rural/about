@@ -38,7 +38,7 @@ By participating, you’re helping shape AI that is responsible, usable, and tru
 
 | Phase | Timeline | Tasks |
 | :-- | :-- | :-- |
-| 🚀 Phase 1 — Submission | May 6 – July 6, 2026 | Teams submit: <br> - 🎥 5–7 minute video demonstration <br> - 📄 Technical + ethical documentation <br> - 🧪 Functional prototype  <br>  (Web-based tool, lightweight executable, or guided simulation hosted on an open repository | 
+| 🚀 Phase 1 — Submission | May 6 – July 6, 2026 | Participants submit: <br> - 🎥 5–7 minute video demonstration <br> - 📄 Technical + ethical documentation <br> - 🧪 Functional prototype  <br>  (Web-based tool, lightweight executable, or guided simulation hosted on an open repository | 
 | 🔎 Phase 2 — Participatory Evaluation & Prototype Testing | July 7 – July 28, 2026 | All projects undergo structured, community-informed evaluation |
 | 🎤 Phase 3 — Live Online Showcase & final judging | August 15, 2026 | |
 
