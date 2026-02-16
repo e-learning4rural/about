@@ -17,10 +17,10 @@ By embedding end-user perspectives into the evaluation process, the symposium pi
 
 ## 🏆 Competition Tracks
 
-||||
+| Track | Goals | Awards |
 | -- | -- | -- |
-| Track 1: 🌱 Real-World Impact | For solutions ready (or near-ready) for deployment in under-resourced contexts | Winner: $1000 <br> Runner-up: $300 |
-| Track 2: 💡 Innovation |  For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning | Winner: $700 <br> Runner-up: $200 |
+| T1: 🌱 Real-World Impact | For solutions ready (or near-ready) for deployment in under-resourced contexts | Winner: $1000 <br> Runner-up: $300 |
+| T2: 💡 Innovation |  For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning | Winner: $700 <br> Runner-up: $200 |
 
 ## How it works?
 - Participants submit a functional prototype, technical documentation, and ethical considerations
