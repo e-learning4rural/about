@@ -12,8 +12,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-# this version will render table properly https://github.com/orgs/community/discussions/23945
-title: epi-gala
+title: Symposium on Ethical AI for Remote Learning in Rural and Marginalized Communities
 markdown: GFM
 show_downloads: false
 google_analytics: G-966JZZV0M0
