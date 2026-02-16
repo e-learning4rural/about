@@ -12,11 +12,17 @@ Participants get a unique opportunity to design AI tools that are ethical, cultu
 
 ## 💰 Win Monetary Awards
 
-Finalists in two tracks — Real-World Impact and Innovation — can win cash prizes totaling $3,500:
+Finalists in two tracks — Real-World Impact and Innovation — can win cash prizes for winning submissions:
+
+---
+
+## 🏆 Competition Tracks
+
 
 | Track 1 | Track 2 |
 | --: | --: |
-| Real-World Impact | Innovation |
+| 🌱  Real-World Impact | 💡 Innovation | For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning |
+| For solutions ready (or near-ready) for deployment in under-resourced contexts |
 | winner: $1000 <br> Runner-up: $300 | Winner: $700 <br> Runner-up: $200 |
 
 ## How it works?
@@ -30,38 +36,21 @@ By participating, you’re helping shape AI that is responsible, usable, and tru
 
 ## 📅 Program Timeline
 
-### 🚀 Phase 1 — Submission  
-**May 6 – July 6, 2026**
+| Phase | Timeline | Tasks |
+| :-- | :-- | :-- |
+| 🚀 Phase 1 — Submission | May 6 – July 6, 2026 | Teams submit: <br> - 🎥 5–7 minute video demonstration <br> - 📄 Technical + ethical documentation <br> - 🧪 Functional prototype  <br>  (Web-based tool, lightweight executable, or guided simulation hosted on an open repository | 
+| 🔎 Phase 2 — Participatory Evaluation & Prototype Testing | July 7 – July 28, 2026 | All projects undergo structured, community-informed evaluation |
+| 🎤 Phase 3 — Live Online Showcase & final judging | August 15, 2026 | |
 
-Teams submit:
-
-- 🎥 5–7 minute video demonstration  
-- 📄 Technical + ethical documentation  
-- 🧪 Functional prototype  
-  (Web-based tool, lightweight executable, or guided simulation hosted on an open repository)
-
-**Expected submissions:** 8–12 projects
-
----
-
-### 🔎 Phase 2 — Participatory Evaluation & Prototype Testing  
-**July 7 – July 28, 2026**
-
-All projects undergo structured, community-informed evaluation.
-
-#### 👩‍🏫 Expert Educator Panel (5)
+### 👩‍🏫 Expert Educator Panel 
 Educators from rural or under-resourced contexts evaluate:
-
 - Feasibility  
 - Pedagogical value  
 - Cultural appropriateness  
 - Ethical design  
 
-#### 🌍 Remote Learner Panel (10)
-Learners from marginalized communities participate in a 14-day guided testing period.
-
-They assess:
-
+### 🌍 Remote Learner Panel 
+Learners from marginalized communities participate in a 14-day guided testing period. They assess:
 - Usability  
 - Accessibility in low-bandwidth settings  
 - Cultural resonance  
@@ -74,38 +63,13 @@ Participation includes:
 - Fair compensation  
 - Privacy and risk safeguards  
 
----
-
-### 🎤 Phase 3 — Live Online Showcase  
-**August 15, 2026**
 
 A four-hour public event featuring:
-
 - Finalist presentations  
 - Moderated Q&A  
 - Reflections from educator and learner panelists  
 - Community voting (non-determinative)  
 - Awards ceremony  
-
----
-
-## 🏆 Competition Tracks
-
-Both tracks use a shared ethical evaluation rubric.
-
-### 🌱 Track 1 — Real-World Impact
-For solutions ready (or near-ready) for deployment in under-resourced contexts.
-
-### 💡 Track 2 — Innovation Track
-For novel, experimental, or breakthrough approaches advancing ethical AI in remote learning.
-
-
-If you'd like, I can also provide:
-
-* A **minimalist version** (less text, more impact)
-* A **more formal academic version**
-* Or a **high-energy call-for-submissions version** designed to attract developers.
-
 
 <details>
   <summary> Rubric Category: Usability & Accessibility </summary>
