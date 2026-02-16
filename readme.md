@@ -63,10 +63,12 @@ Participation includes:
 - Privacy and risk safeguards  
 
 ## Scoring rubric
-*click to expand the rubrics*
+*click to expand each category*
+
+### Track 1: Real-world impact 
 
 <details>
-<summary> Needs Alignment (25%)</summary>
+<summary> Needs Alignment (20%)</summary>
 Description: Does the AI tool directly address the specific needs of marginalized or rural learners, particularly in remote and under-resourced contexts?
 
 Questions to consider:
@@ -77,7 +79,7 @@ Questions to consider:
 </details>
 
 <details>
-<summary> Ethical Design (50%)</summary>
+<summary> Ethical Design (40%)</summary>
  
 Description: Does the AI solution address potential biases, ensuring that it does not disadvantage certain groups, particularly marginalized communities?
 
@@ -101,7 +103,7 @@ Questions to consider:
 </details>
 
 <details>
-<summary> Usability & Accessibility (25%)</summary>
+<summary> Usability & Accessibility (40%)</summary>
 Description: How intuitive and easy-to-use is the AI tool for learners, especially those with limited technical experience? Does the interface design facilitate smooth interaction?
 
 Questions to consider:
@@ -120,3 +122,54 @@ Educators then provide evaluation based on:
 - Thematic summary of learners' qualitative responses
 - Flagged issues (e.g., confusion, harm concerns)
 </details>
+
+
+### Track 2: Innovation Track
+
+<details>
+<summary> Needs Alignment (20%)</summary>
+Description: Does the AI tool directly address the specific needs of marginalized or rural learners, particularly in remote and under-resourced contexts?
+
+Questions to consider:
+1. Does the tool solve a clearly identified problem in these communities (e.g., access to resources, low bandwidth, cultural relevance)?
+2. How well does the solution align with the real-world needs of the target user group?
+3. Has the project incorporated user feedback from remote learners and educators during the design phase?
+4. Is there evidence of how users will be motivated to use the tool regularly (e.g., gamification, ease of use, feedback loops)?
+</details>
+
+<details>
+<summary> Originality (40%)</summary>
+Description: How original and unique is the solution? Does it introduce a new concept, approach, or technology, or does it build on existing ideas in a groundbreaking way?
+
+Questions to consider:
+- Does the solution introduce a novel idea or approach to solving the problem?
+- How does it differ from or improve upon existing solutions in the field?
+- Does it leverage new or emerging technologies in a creative way?
+ 
+</details>
+
+<details>
+<summary> Ethical Design (40%)</summary>
+ 
+Description: Does the AI solution address potential biases, ensuring that it does not disadvantage certain groups, particularly marginalized communities?
+
+Questions to consider:
+### Fairness and Bias Mitigation
+- Does the tool account for diverse learners and their needs (e.g., language, cultural backgrounds, socio-economic status)?
+- How does the system identify and mitigate potential bias in its algorithms and data usage?
+- Is there any evidence of fairness testing (e.g., does the tool work equally well for learners from different backgrounds)?
+### Transparency & Accountability
+- Does the tool provide clear explanations about its algorithms, data sources, and how decisions are made?
+- Are the creators accountable for potential harm caused by the tool, and is there a process for addressing user concerns?
+- Is there a clear and transparent methodology for how the tool was designed, tested, and iterated?
+### Data Privacy & Security
+- Does the tool follow ethical data collection practices, such as informed consent, data anonymization, and user control over their data?
+- How does the tool ensure security for vulnerable populations, protecting them from data breaches or misuse?
+- Does the tool comply with relevant data protection laws and local regulations for remote learners?
+### Cultural Sensitivity and Inclusivity    
+- Is the tool designed with cultural sensitivity in mind, addressing the unique needs and backgrounds of remote learners from diverse communities?
+- How inclusive is the solution? Does it consider disabilities, language barriers, and regional diversity in design?
+- Has the tool been tested with target communities to ensure cultural appropriateness?
+</details>
+
+
