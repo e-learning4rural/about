@@ -1,4 +1,33 @@
 
+# Reimagining AI for learners the system overlooks.
+
+*An international showcase of ethical, community-evaluated AI solutions for remote and marginalized education contexts*
+
+
+## 🌟 What This Symposium Is About
+
+The Inaugural Symposium on Ethical AI for Remote Learning is an online showcase for AI solutions that advance education in rural and marginalized communities.
+
+Participants get a unique opportunity to design AI tools that are ethical, culturally grounded, and accessible, test them with real educators and learners, and gain meaningful recognition.
+
+## 💰 Win Monetary Awards
+
+Finalists in two tracks — Real-World Impact and Innovation — can win cash prizes totaling $3,500:
+
+| Track 1 | Track 2 |
+| --: | --: |
+| Real-World Impact | Innovation |
+| winner: $1000 <br> Runner-up: $300 | Winner: $700 <br> Runner-up: $200 |
+
+## How it works?
+- Submit your prototype and documentation — show how your AI solution works and why it matters.
+- Receive feedback from educators and remote learners — structured usability testing and surveys inform your final score.
+- Present at the live online showcase — finalists share their work, reflect with panels, and compete for awards.
+
+By participating, you’re helping shape AI that is responsible, usable, and truly equitable — and getting recognized for it.
+
+--- 
+
 ## 📅 Program Timeline
 
 ### 🚀 Phase 1 — Submission  
